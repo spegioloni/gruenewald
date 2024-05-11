@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Portfolio
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
